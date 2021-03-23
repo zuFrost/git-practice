@@ -24,6 +24,11 @@ Or use `git commit -m "<message>"`
 -Use proper spelling, grammar and punctuation
 -Don't end with a `.`
 
+## Merging
+
+Merging means to bring the changes from one branch into another
+__some edditional text_
+
 ## What'a a remote?
 
 A remote repo is one hosted somewhere other than out local machine. 
