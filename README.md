@@ -8,6 +8,9 @@
 -git commit: Commint changes from staging area to current branch
 -git config: Set or get configurations
 -git log: Show a history (aka "log") of project commits
+-git show: Show a single commin
+-git diff: Show the difference between commits, the working 
+directory, and the staging area
 -git checkout: Check out branch (update HEAD and apply changes to working directory)
 -git checkout -b: Create branch, then check it out
 -git branch: List branches
